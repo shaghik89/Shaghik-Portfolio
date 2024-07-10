@@ -11,7 +11,7 @@
 
 ## Work Experience
 **AI Procurmenet Digitalization Expert @ Uniper (_Januray 2023 - Present_)**
-### Workflow Automation with Alteryx
+# Workflow Automation with Alteryx
 - **Self-Learned Alteryx Designer**: Conduct data wrangling and create automated workflows using Alteryx.
 - **Visualization in Power BI**: Visualize business KPIs related to procurement in the energy sector.
 ### IT Security and Management
