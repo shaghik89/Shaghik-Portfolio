@@ -11,26 +11,26 @@
 
 ## Work Experience
 **AI Procurmenet Digitalization Expert @ Uniper (_Januray 2023 - Present_)**
-# Workflow Automation with Alteryx
-- **Self-Learned Alteryx Designer**: Conduct data wrangling and create automated workflows using Alteryx.
-- **Visualization in Power BI**: Visualize business KPIs related to procurement in the energy sector.
-#IT Security and Management
-- **Security Policies with Tufin**: Use Tufin to ensure systems are secured within industry standards, implementing and managing IT security policies.
-# AI-Driven Procurement Chatbots
+-Workflow Automation with Alteryx:
+- Self-Learned Alteryx Designer**: Conduct data wrangling and create automated workflows using Alteryx.
+- Visualization in Power BI**: Visualize business KPIs related to procurement in the energy sector.
+-IT Security and Management
+- Security Policies with Tufin**: Use Tufin to ensure systems are secured within industry standards, implementing and managing IT security policies.
+-AI-Driven Procurement Chatbots:
 - Researched and evaluated potential solutions for procurement chatbots.
 - Developed chatbots using platforms like Copilot Studio and Azure Chatbots for virtual assistance in procurement.
 
-### Document Intelligence and Text and Information Extraction
-- **Developed AI solutions to translate documents and extract key information from supplier quotations using Python (Python 3.10) by applying NLP solutions.
-- **Used tools like pandas, tabula-py, PyMuPDF, and numpy to handle both scanned and non-scanned PDFs, extracting vendor details, essential PO information, and table data.
-### General Knowledge and Tools
-- **Ariba Procurement: General knowledge about utilizing and understand SAP Ariba for procurement processes.
-- **SAP Discovery Tool: Implement and leverage the SAP Discovery Tool for various procurement and data analysis tasks.
-### Additional Responsibilities
-- **Project Management: Create and manage roadmaps for procurement digitalization projects, ensuring timely delivery and alignment with business goals.
+- Document Intelligence and Text and Information Extraction
+- Developed AI solutions to translate documents and extract key information from supplier quotations using Python (Python 3.10) by applying NLP solutions.
+- Used tools like pandas, tabula-py, PyMuPDF, and numpy to handle both scanned and non-scanned PDFs, extracting vendor details, essential PO information, and table data.
+-General Knowledge and Tools
+- Ariba Procurement: General knowledge about utilizing and understand SAP Ariba for procurement processes.
+- SAP Discovery Tool: Implement and leverage the SAP Discovery Tool for various procurement and data analysis tasks.
+-Additional Responsibilities
+- Project Management: Create and manage roadmaps for procurement digitalization projects, ensuring timely delivery and alignment with business goals.
 - **Stakeholder Collaboration: Collaborate with stakeholders to gather requirements, provide updates, and ensure solutions meet business needs.
-- ** Conducting Prompt engineering & AI traing for the group of 25-30 people.
-- **Continuous Improvement: Stay updated with the latest trends and advancements in AI, procurement digitalization, and related technologies to continuously improve solutions.
+- Conducting Prompt engineering & AI traing for the group of 25-30 people.
+- Continuous Improvement: Stay updated with the latest trends and advancements in AI, procurement digitalization, and related technologies to continuously improve solutions.
 
 
 
