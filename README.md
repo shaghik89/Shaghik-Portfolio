@@ -14,9 +14,9 @@
 # Workflow Automation with Alteryx
 - **Self-Learned Alteryx Designer**: Conduct data wrangling and create automated workflows using Alteryx.
 - **Visualization in Power BI**: Visualize business KPIs related to procurement in the energy sector.
-### IT Security and Management
+#IT Security and Management
 - **Security Policies with Tufin**: Use Tufin to ensure systems are secured within industry standards, implementing and managing IT security policies.
-### AI-Driven Procurement Chatbots
+# AI-Driven Procurement Chatbots
 - Researched and evaluated potential solutions for procurement chatbots.
 - Developed chatbots using platforms like Copilot Studio and Azure Chatbots for virtual assistance in procurement.
 
