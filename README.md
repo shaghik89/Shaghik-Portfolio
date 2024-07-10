@@ -36,9 +36,33 @@
 
 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist/Data Analyst @ Uniper (_April 2023 - December 2023_)**
+### Power BI Dashboards for Uniper Digital Platform via Google analytics Data
+- Created interactive Power BI dashboards by fetching data from Google Analytics reports for Uniper’s digital platform.
+- Analyzed commodity prices, usage patterns, and user experience interactions to optimize digital strategies.
+
+### Anomaly Testing for Pegasus and Endur Gas Systems
+- Conducted anomaly tests for Pegasus and Denur gas systems.
+- Analyzed features such as temperature, delivery date, and location for gas products to identify outliers and anomalies.
+- Generated & delivered daily detailed power commodity reports in SAP for the reconciliation purposes, where we had monthly spot check with L3.
+
+### AI Project: Sales Return Analysis for L2/L3
+- Led an AI project to analyze sales returns at L2/L3 levels, focusing on return on profit metrics.
+- Utilized advanced analytics techniques to derive insights and recommendations for optimizing sales strategies.
+
+## Technologies Used
+- Power BI
+- Google Analytics
+- Python (including relevant libraries)
+- AI/ML techniques
+- Statistical analysis
+
+  
+**Reserach fellow & Lead @ HSMW (_April 2023 - December 2023_)**  
+
+
+
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
